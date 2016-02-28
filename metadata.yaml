@@ -1,0 +1,39 @@
+_repo: The-Advancement-of-Learning_5500
+contributor:
+  creator:
+    editor:
+      agent_name: Morley, Henry
+      birthdate: 1822
+      deathdate: 1894
+      gutenberg_agent_id: '1355'
+      url: http://www.gutenberg.org/2009/agents/1355
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Bacon, Francis
+    aliases:
+    - St. Albans, Francis Bacon, Viscount
+    - Verulam, Francis Bacon
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knowledge, Theory of -- Early works to 1800'
+- !lcc 'B'
+- !lcsh 'Learning -- Philosophy -- Early works to 1800'
+- !lcsh 'Science -- Methodology -- Early works to 1800'
+- !lcsh 'Logic -- Early works to 1800'
+title: The Advancement of Learning
+url: http://www.gutenberg.org/ebooks/5500
