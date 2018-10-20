@@ -1,5 +1,5 @@
 _repo: The-Advancement-of-Learning_5500
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -41,5 +41,6 @@ subjects:
 - !lcsh 'Learning -- Philosophy -- Early works to 1800'
 - !lcsh 'Science -- Methodology -- Early works to 1800'
 - !lcsh 'Logic -- Early works to 1800'
+- GITenberg
 title: The Advancement of Learning
 url: http://www.gutenberg.org/ebooks/5500
